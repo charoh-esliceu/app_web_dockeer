@@ -1,3 +1,10 @@
+<?php
+/**
+ * Template Name: Front-page
+ * Tem0olate Post:Llista de noticics
+ */
+?>
+
 <?php get_header() ?>
 
 
