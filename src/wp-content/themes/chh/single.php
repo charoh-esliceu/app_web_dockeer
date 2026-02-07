@@ -9,7 +9,7 @@
                     </h1> 
                 </div> 
                 <div class="col-md-12 mt-4">
-                    <img src="wp-content/themes/chh/img/img4.png" class="img-fluid" style="max-width: 1000px;">
+                    <img src="wp-content/themes/chh/img/img4.png" class="img-fluid" style="max-width: 700px;">
                 </div>
                 <div class="row align-items-center">
                     <p class="mt-3">
@@ -28,7 +28,7 @@
                     </h3>
                 </div>   
                 <div class="col-md-12 mt-3">
-                    <img src="wp-content/themes/chh/img/img5.png" class="img-fluid" style="max-width: 550px;">
+                    <img src="wp-content/themes/chh/img/img5.png" class="img-fluid" style="max-width: 500px;">
                 </div> 
                 <div class="row align-items-center">
                     <h3 class="mt-5">
