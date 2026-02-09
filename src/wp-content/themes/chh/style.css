@@ -1,5 +1,4 @@
-
-
-.background {
-  background: linear-gradient(145deg,#0a2f0f,#28501f)
+.custom-navbar {
+  background: linear-gradient(90deg, #1f3d1b, #2e5b28);
+  padding: 15px 0;
 }
