@@ -10,4 +10,4 @@ while (have_posts()){
     the_content();
 }
 
- ger_footer(); 
+ get_footer(); 

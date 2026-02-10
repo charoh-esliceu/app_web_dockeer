@@ -132,4 +132,4 @@
   </div>
 </div> 
 
-<?php ger_footer() ?>
+<?php get_footer() ?>
